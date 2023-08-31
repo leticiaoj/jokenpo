@@ -1,1 +1,3 @@
-![alt text]([https://i.imgur.com/CQzdCwt.png](https://i.imgur.com/g4bnqxf.png)https://i.imgur.com/g4bnqxf.png)
+#Jokenpô usuário 🙎 x 🖥️ computador
+
+![alt text](https://i.imgur.com/g4bnqxf.png)
