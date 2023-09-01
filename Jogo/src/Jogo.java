@@ -86,7 +86,7 @@ public class Jogo extends JFrame implements ActionListener {
         } else if ((intSelecaoJogador == 2 && intSelecaoComp == 0) ||
                    (intSelecaoJogador == 0 && intSelecaoComp == 1) ||
                    (intSelecaoJogador == 1 && intSelecaoComp == 2)) {
-            labelResultado.setText("O computador ganhou.");
+            labelResultado.setText("O computador venceu.");
         }
     }
 }
